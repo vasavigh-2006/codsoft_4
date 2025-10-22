@@ -5,10 +5,10 @@ A simple Rock Paper Scissor game using the Python Tkinter module. Each round is 
 Players: Computer vs User
 
 Implementations:
-1. Random choice for the computer
-2. Buttons for user choice
-3. Tracking the score of computer and the user
-4. Announcement of winner after every round of 10 points
+- Random choice for the computer
+- Buttons for user choice
+- Tracking the score of computer and the user
+- Announcement of winner after every round of 10 points
 
 Game Flow:
 Computer picks randomly from a list of rock, paper, scissor
