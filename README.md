@@ -4,13 +4,14 @@ A simple Rock Paper Scissor game using the Python Tkinter module. Each round is 
 
 Players: Computer vs User
 
-Implementations:
+**Implementations**:
 - Random choice for the computer
 - Buttons for user choice
 - Tracking the score of computer and the user
 - Announcement of winner after every round of 10 points
 
-Game Flow:
+**Game Flow**:
+
 Computer picks randomly from a list of rock, paper, scissor  
 ↓  
 User clicks on the desired button (rock, paper, scissor)  
@@ -24,7 +25,7 @@ Displays the winner (who scores more than 10 points)
 Resets the game for the next round  
 
 
-Combinations for the Result:
+**Combinations for the Result:**
 | USER     | COMPUTER | WINNER    |
 |-----------|-----------|-----------|
 | Rock      | Rock      | Draw      |
@@ -37,7 +38,7 @@ Combinations for the Result:
 | Scissor   | Paper     | User      |
 | Rock      | Scissor   | User      |
 
-How to Run the Game (Using IDLE):
+**How to Run the Game (Using IDLE):**
 1. Download the File
    - Click on the rockpaperscissor.py file in this repository
    - Click the "Download raw file" button (or right-click → Save link as...)
@@ -55,7 +56,7 @@ How to Run the Game (Using IDLE):
 Tip: Make sure Python 3 is installed. You can check by opening Command Prompt or Terminal and typing:
 python --version
 
-How to Run the Game (Using VS Code):
+**How to Run the Game (Using VS Code)**
 1. Download the File
    - Click on the rockpaperscissor.py file in this repository
    - Click the "Download raw file" button (or right-click → Save link as...)
