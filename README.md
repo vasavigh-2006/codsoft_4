@@ -11,17 +11,18 @@ Implementations:
 - Announcement of winner after every round of 10 points
 
 Game Flow:
-Computer picks randomly from a list of rock, paper, scissor
-↓
-User clicks on the desired button (rock, paper, scissor)
-↓
-Combinations for the result
-↓
-Displays the score accordingly
-↓
-Displays the winner (who scores more than 10 points)
-↓
-Resets the game for the next round
+Computer picks randomly from a list of rock, paper, scissor  
+↓  
+User clicks on the desired button (rock, paper, scissor)  
+↓  
+Combinations for the result  
+↓  
+Displays the score accordingly  
+↓  
+Displays the winner (who scores more than 10 points)  
+↓  
+Resets the game for the next round  
+
 
 Combinations for the Result:
 | USER     | COMPUTER | WINNER    |
